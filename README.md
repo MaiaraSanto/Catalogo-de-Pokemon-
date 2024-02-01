@@ -4,6 +4,8 @@
 
 Link da API: https://pokeapi.co/
 
+ ### <div align="center"> [Acesse aqui](https://catalogo-pokedex.netlify.app/)
+
 <img src="./pokedex.JPG" align="center" height="400em" width="100%"> 
 
 Este projeto é baseado ma criação de um site interativo que funcione como um catálogo de informações de Pokémons. Utilizando a API PokeAPI, os estudantes deverão desenvolver uma aplicação web que permita aos usuários visualizar informações e imagens de diferentes Pokémons, por meio de navegação ou pesquisa.
