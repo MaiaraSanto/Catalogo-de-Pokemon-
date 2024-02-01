@@ -1,4 +1,4 @@
-# -Cat-logo-de-Pok-mon-
+# Catálogo-de-Pokemon
 
 🎯 Como será a tarefa?
 
